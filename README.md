@@ -1,8 +1,8 @@
 
  
-#Problems
+# Problems
 
-##1)	No Effective Marine Waste Management System
+1)	No Effective Marine Waste Management System
 Every day, thousands of tourists visit Indian beaches, but they are unable to dispose of the juice bottles, snack wrappers, and other plastic debris they produce in an efficient manner.
 Most of the time, they litter plastic waste on the seashore. These plastic wastes end up in the sea, where they harm the entire marine ecosystem. 
 
@@ -10,7 +10,7 @@ Oil spills frequently kill marine mammals such as whales, dolphins, seals, and s
 Even when marine mammals escape the immediate effects, an oil spill can contaminate their food supply. Marine mammals that eat fish or other foods exposed to an oil spill may be poisoned by the oil and die or experience other problems.
 
 
-##2)	Damage to Marine Ecosystem
+2)	Damage to Marine Ecosystem
 
 Turtles and other marine animals, mistake plastic as food. Since plastic is not digestible, it remains in their stomach and gives them the sensation of being full, so these marine animals die out of starvation.
 
@@ -18,7 +18,7 @@ If the current trend continues, then the weight of all the plastic in the world�
 
 
 
-##3)	Decline in Tourism 
+3)	Decline in Tourism 
 A beach littered with plastic waste does not present a favourable image to foreign tourists, and as a result, many of them avoid visiting Indian beaches. 
 Seashores polluted with plastic waste give a bad impression to foreign tourists.
  India has many beautiful beaches, which provides a great opportunity in the tourism sector. 
@@ -37,7 +37,7 @@ We need a Solution that can solve for tomorrow.
 
 
 
-#Solution
+# Solution
 
 The goal of our project is to create a web-based application that will let users report issues. Users can report oil spills and garbage dumped in coastal areas. Anyone can use the service, from tourists to fishermen. Users who report issues in the app will get points.
 
@@ -47,7 +47,7 @@ Various NGOs and Government agencies can use the details submitted by the users 
 
 
 
-#Users
+# Users
 The major users of the web-app will be
 •	Tourist
 •	Local Residents
@@ -56,11 +56,11 @@ The major users of the web-app will be
 •	Government Agencies
 
 
-#Implementation
+# Implementation
 
 The web app will be built using React as front end Javascript library, in backend we will be using firebase for database and firestore. Waste location is reported and users can upload picture for identification which will be stored in firestore. Collection request can be accepted by nearby users who will then be provided instructions for collection and deposit with map location to collection centres.
 
-#Assumptions and Reference
+# Assumptions and Reference
 •	Around 9 million tourists visit Goa every year to enjoy the beautiful beaches. From this figure alone, we can imagine how large the beach tourism industry is.
 •	Plastics constitute 71% of waste generated in the Indian shoreline. According to NCCR.
 The India recycled plastics market size reached US$ 3,553 Million in 2021.  IMARC Group expects the market to reach US$ 5,020 Million by 2027.
@@ -75,7 +75,7 @@ The India recycled plastics market size reached US$ 3,553 Million in 2021.  IMAR
 
 
 
-#Tech Stack
+# Tech Stack
 
 Reactjs and Firebase
 
